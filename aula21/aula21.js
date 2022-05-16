@@ -15,7 +15,7 @@ Operadores de comparação
 
 console.log(10 > 5);
 console.log(10 >= 5);
-console.log(10 < 11);
+console.log(10 < 11); 
 console.log(10 <= 11);
 
 const num1 = 10;
