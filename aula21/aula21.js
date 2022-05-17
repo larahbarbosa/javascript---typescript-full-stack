@@ -28,3 +28,5 @@ const num4 = '10';
 const exemplo = num3 == num4; //mesma coisa para o diferente !=
 console.log(exemplo) 
 
+
+//O ideal é sempre usar ===, !==
