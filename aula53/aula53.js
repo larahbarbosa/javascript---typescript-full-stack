@@ -9,7 +9,7 @@ function retornaFuncao() {
 const funcao = retornaFuncao();
 console.log(funcao);
 
-/* A função do closure é acessar o escopo léxico
+/* A função do closure é acessar o escopo léxico;
 O closure é a variável que fecha o escopo, ela retorna a váriável do jeito que ela tá definida;
-Sempre vai ser 'Luiz'.
+Sempre vai ser 'Luiz'. O closure é a habildade que a função tem em acessar o seu escopo léxico.
 O closure nessa função seria 'Luiz'; é possível ver no console no navegador linkando a um index.html */
